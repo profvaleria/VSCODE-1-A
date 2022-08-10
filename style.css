@@ -1,0 +1,19 @@
+body {
+background-color: green; 
+}
+
+h1 {
+    color: aliceblue; text-decoration: double; font-size: 50px; text-align: center;
+
+}
+h2 { 
+    color: aliceblue; text-align: center;
+}
+
+p {
+    text-align: inherit; color: aliceblue; font-size: 35px; text-align: right;
+}
+
+i{
+    text-align: left; color: beige; font-size: 35px;
+}
